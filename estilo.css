@@ -1,0 +1,61 @@
+
+h1{
+    color:orange;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#titulo{
+    color:green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.negrilla{
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+#cabecera{
+    background-color: red;
+    width: 100vw;
+    height: 30vh;
+}
+
+#cuerpo{
+    background-color: green;
+    width: 100vw;
+    height: 30vh;
+}
+
+body{
+    margin: 0%;
+}
+
+#contTexto{
+    background-color: blue;
+    width: 50%;
+    height: 50%;
+    float: right;
+    text-align:center;
+    padding-top: 70px;
+}
+
+#contImagen{
+    background-color: purple;
+    width: 50%;
+    height: 50%;
+}
+
+#titCabecera{
+    font-weight: bold;
+    font-size: 2.5rem
+}
+
+#titUPB{
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: end;
+}
+
+
+
+
